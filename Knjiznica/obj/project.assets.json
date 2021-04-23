@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marko\\Desktop\\Knjizinca\\Knjiznica\\Knjiznica\\Knjiznica.csproj",
+      "projectUniqueName": "C:\\Users\\Marko\\Desktop\\Knjizinca\\Knjiznica\\Knjiznica\\Knjiznica\\Knjiznica.csproj",
       "projectName": "Knjiznica",
-      "projectPath": "C:\\Users\\Marko\\Desktop\\Knjizinca\\Knjiznica\\Knjiznica\\Knjiznica.csproj",
+      "projectPath": "C:\\Users\\Marko\\Desktop\\Knjizinca\\Knjiznica\\Knjiznica\\Knjiznica\\Knjiznica.csproj",
       "packagesPath": "C:\\Users\\Marko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marko\\Desktop\\Knjizinca\\Knjiznica\\Knjiznica\\obj\\",
+      "outputPath": "C:\\Users\\Marko\\Desktop\\Knjizinca\\Knjiznica\\Knjiznica\\Knjiznica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marko\\AppData\\Roaming\\NuGet\\NuGet.Config",
